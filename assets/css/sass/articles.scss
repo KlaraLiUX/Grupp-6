@@ -198,3 +198,38 @@ article#article {
   padding: 0px !important;
   overflow: hidden !important;
 }
+
+
+.s-google {
+display:block;
+padding:5%;
+margin-left: 0px;
+margin-right: 0px;
+text-align: center;
+}
+
+.d-google {
+width: 100%;
+height: 100%;
+padding: 0;
+overflow: hidden;
+position: relative;
+}
+
+
+
+.iframemap {
+width: 60;
+height: 300;
+frameborder:0;
+scrolling:no;
+margin-height:0;
+margin-width:0;
+}
+
+.s-ourstory {
+float: center;
+width: 90%;
+padding: 5%;
+font-color: $black;
+}
