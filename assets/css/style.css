@@ -513,6 +513,11 @@ article#article.show .info .date-author {
   width: 90%;
   padding: 5%;
   font-color: #000;
+  text-align: center;
+}
+
+.a-ourstory {
+  text-align: left;
 }
 
 /*Articles SASS file*/
