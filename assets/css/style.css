@@ -509,11 +509,9 @@ article#article.show .info .date-author {
 }
 
 .s-ourstory {
-  float: center;
   width: 90%;
   padding: 5%;
   font-color: #000;
-  text-align: center;
   margin-left: 0px;
   margin-right: 0px;
 }
