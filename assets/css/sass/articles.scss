@@ -228,13 +228,11 @@ margin-width:0;
 }
 
 .s-ourstory {
-float: center;
-width: 90%;
+width: 100%;
 padding: 5%;
 font-color: $black;
-text-align: center;
-margin-left: 0px;
-margin-right: 0px;
+margin: 0px auto;
+display: block;
 }
 
 .a-ourstory {
