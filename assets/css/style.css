@@ -514,6 +514,8 @@ article#article.show .info .date-author {
   padding: 5%;
   font-color: #000;
   text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .a-ourstory {
