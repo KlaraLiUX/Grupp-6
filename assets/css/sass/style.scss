@@ -54,6 +54,20 @@ body {
   }
 }
 
+/*------General alignment-----*/
+
+.align-one {
+    margin: 0px auto;
+    max-width: 90%;
+}
+.no-p {
+	padding-left: 0%;
+}
+.m-t-b {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
 /*------FOOTER-----*/
 
 #footer {

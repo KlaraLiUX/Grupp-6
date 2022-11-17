@@ -521,19 +521,12 @@ article#article.show .info .date-author {
 }
 
 /*Articles SASS file*/
-.footer-m {
-  float: center;
-  width: auto;
-  padding-left: 5%;
-  padding-top: 1%;
-}
-
 .bold-p {
   font-weight: 700;
 }
 
 .m-top-footer {
-  margin-top: 16%;
+  margin-top: 50px;
 }
 
 /*Footer SASS file*/
@@ -574,6 +567,21 @@ body {
   #content {
     width: 100%;
   }
+}
+
+/*------General alignment-----*/
+.align-one {
+  margin: 0px auto;
+  max-width: 90%;
+}
+
+.no-p {
+  padding-left: 0%;
+}
+
+.m-t-b {
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 /*------FOOTER-----*/
