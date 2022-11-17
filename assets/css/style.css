@@ -515,6 +515,11 @@ article#article.show .info .date-author {
   display: block;
 }
 
+.staffImg {
+  width: 175px;
+  height: 290px;
+}
+
 /*Articles SASS file*/
 .footer-m {
   float: center;
