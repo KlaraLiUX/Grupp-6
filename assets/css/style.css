@@ -488,6 +488,7 @@ article#article.show .info .date-author {
   height: 330px;
   frameborder: 0;
   scrolling: no;
+  display: block;
 }
 
 .staffImg {
