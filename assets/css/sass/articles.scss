@@ -219,7 +219,7 @@ position: relative;
 
 
 .iframemap {
-width: 80%;
+width: 90%;
 height: 400px;
 frameborder:0;
 scrolling:no;
@@ -228,8 +228,13 @@ margin-width:0;
 }
 
 .s-ourstory {
-float: center;
-width: 90%;
+width: 100%;
 padding: 5%;
 font-color: $black;
+margin: 0px auto;
+display: block;
+}
+
+.a-ourstory {
+text-align: left;
 }
