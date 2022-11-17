@@ -42,3 +42,9 @@ function searchFunction() {
     noResults.style.display = "none"; //Hide the no results text
   }
 }//Close searchFunction
+
+
+//Link to homepage
+function myGoogleanimation() {
+    window.location = "index.html";
+}
