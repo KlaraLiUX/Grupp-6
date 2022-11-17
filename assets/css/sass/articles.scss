@@ -202,9 +202,10 @@ article#article {
 
 .s-google {
 display:block;
-padding:5%;
 margin-left: 0px;
 margin-right: 0px;
+margin-top: 60px;
+margin-bottom:60px;
 text-align: center;
 }
 
@@ -219,22 +220,16 @@ position: relative;
 
 
 .iframemap {
-width: 90%;
-height: 400px;
+width: 80%;
+height: 287px;
 frameborder:0;
 scrolling:no;
-margin-height:0;
-margin-width:0;
 }
 
 .s-ourstory {
 width: 100%;
 padding: 5%;
 font-color: $black;
-margin: 0px auto;
+margin: 60px 0px auto;
 display: block;
-}
-
-.a-ourstory {
-text-align: left;
 }
