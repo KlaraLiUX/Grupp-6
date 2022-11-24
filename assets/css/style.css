@@ -518,6 +518,11 @@ body {
   color: #000;
 }
 
+.test > * img {
+  object-fit: cover;
+  width: 100%;
+}
+
 @media screen and (max-width: 1024px) {
   /*All Devices*/
   html.touch *:hover {
@@ -545,6 +550,16 @@ body {
   }
 }
 
+/*------Breakpoint for mobile and tablet (responsive pics)-----*/
+@media (max-width: 400px) {
+  .test {
+    display: block;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .test > * {
+    width: 100%;
+  }
+}
 /*------General alignment-----*/
 .align-one {
   margin: 0px auto;
